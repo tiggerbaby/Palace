@@ -1,0 +1,32 @@
+* {
+  font-family: Arial;
+  letter-spacing: 2px; }
+
+/*html{
+	background-image: url('../img/background1.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*/
+.container > .parallax_wrapper {
+  background-image: url("../img/background1.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%; }
+
+/*.bgimg-1 {
+    background-image: url('../img/background1.jpg');
+    min-height: 100%;
+}
+.bgimg-1{
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/

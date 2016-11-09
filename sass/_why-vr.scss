@@ -1,0 +1,36 @@
+#why-vr{
+	position: relative;
+}
+
+.girl_img{
+	img{
+		height: 80%;
+		position: absolute; 
+		top: -280px;
+		left: 20px;
+	} 
+}
+
+
+/* Smartphones (landscpae) ----------- */
+@media only screen and (max-width : 667px) {
+/* Styles */
+ .girl_img{
+  img{
+    height: 50%;
+    top: -130px;
+  }
+ }   
+}
+
+@media only screen and (max-width : 736px) {
+/* Styles */
+ .girl_img{
+  img{
+    height: 50%;
+    top: -135px;
+  }
+ }   
+}
+
+
